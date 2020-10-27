@@ -1,0 +1,85 @@
+url_a_traiter	nom	titre	lien linkedln
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Hugues de Chaumont	Cofondateur et Président chez GoSense - CEO	https://www.linkedin.com/in/hugues-de-chaumont-5392b586/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	jean-françois dufour	Business Development Advisor - Specialty Strategy Finance and Raising Money for Entrepreneurs	https://www.linkedin.com/in/jean-francois-dufour/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Thom Mpanjo	Chief startup officer	https://www.linkedin.com/in/thom-mpanjo/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Jack-Hermann N.	Group Business Change Partner Leader@ (Euler Hermes Allianz) / Entrepreneur @ (MFT)	https://www.linkedin.com/in/jack-hermann-n-9870348/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Carmen Kervella	CEO at aHeadLand / Speaker / Author of "Le luxe et les nouvelles technologies" / Co-founder of PopMoms (#app)	https://www.linkedin.com/in/carmen-kervella%F0%9F%92%A5-bb6b9138/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	boris yepmo	Dirigeant d’entreprise chez DATA TRYB	https://www.linkedin.com/in/boris-yepmo-68589927/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Hugues de Chaumont	Cofondateur et Président chez GoSense - CEO	https://www.linkedin.com/in/hugues-de-chaumont-5392b586/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Jack-Hermann N.	Group Business Change Partner Leader@ (Euler Hermes Allianz) / Entrepreneur @ (MFT)	https://www.linkedin.com/in/jack-hermann-n-9870348/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Nourdine Cherif Skalli	PDG chez nourreska	https://www.linkedin.com/in/nourdine-cherif-skalli-452a312/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Muriel MECHICA	CEO at Closer To The World	https://www.linkedin.com/in/muriel-mechica-a57470144/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Thomas de Saintignon	CTO chez EyeLights	https://www.linkedin.com/in/thomas-de-saintignon-524232114/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Romain DUFLOT	EyeLights Founder & CEO, TechStars Paris 17	https://www.linkedin.com/in/romain-duflot-476311a1/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Younès Benabdelhadi	Purchasing Director at Central-Purchasing	https://www.linkedin.com/in/youn%C3%A8s-benabdelhadi-b064a5b1/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Thomas de Saintignon	CTO chez EyeLights	https://www.linkedin.com/in/thomas-de-saintignon-524232114/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Romain DUFLOT	EyeLights Founder & CEO, TechStars Paris 17	https://www.linkedin.com/in/romain-duflot-476311a1/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Richard Hullin	Directeur Marketing et Communication at SOL'S - Solo Invest / Leader Europeen du Textile Personalisable	https://www.linkedin.com/in/richardhullin/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Sophie Abenhaim	Graphiste freelance (Graphic/Web Designer) self employed	https://www.linkedin.com/in/sophie-abenhaim-b5480a12a/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Bèlè Rose de Lima TCHAMDJA	MAÎTRISE EN DROIT DES AFFAIRES	https://www.linkedin.com/in/b%C3%A8l%C3%A8-rose-de-lima-tchamdja-083978115/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Estelle Lataste	Responsable marketing et communication chez Mont Blanc Swiss Clinic	https://www.linkedin.com/in/estelle-lataste-9616a212a/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Miora RAKOTOVAO	Assistante administrative et RH chez EPIDE - Etablissement pour l'insertion dans l'emploi	https://www.linkedin.com/in/rakotovaomiora/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Aissata Koité	Assistante comptable freelance & co-fondatrice-trésorière chez Bee Working	https://www.linkedin.com/in/aissata-koit%C3%A9-8aa14586/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Marie Legrand	CEO & founder chez Impulse Communication	https://www.linkedin.com/in/marielegrandimpulse/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Clara Champion	Innovation & Growth Marketing Manager	https://www.linkedin.com/in/clarachampion/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Louise Coué	Export business developper	https://www.linkedin.com/in/louise-cou%C3%A9-02a6bb108/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Carmen Kervella	CEO at aHeadLand / Speaker / Author of "Le luxe et les nouvelles technologies" / Co-founder of PopMoms (#app)	https://www.linkedin.com/in/carmen-kervella%F0%9F%92%A5-bb6b9138/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Carmen Kervella	CEO at aHeadLand / Speaker / Author of "Le luxe et les nouvelles technologies" / Co-founder of PopMoms (#app)	https://www.linkedin.com/in/carmen-kervella%F0%9F%92%A5-bb6b9138/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Maëlle Chassard	CEO Lunii	https://www.linkedin.com/in/maellechassard/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Cyril Garnier	Directeur Général SNCF Développement	https://www.linkedin.com/in/cyril-garnier-89697b1/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Fanny Cousin	Office Manager et Fondateur de la marque @Amandine et Quentin	https://www.linkedin.com/in/fanny-cousin-16a50a136/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Sara CROÜS	Chargée de mission qualité chez CNEFOP	https://www.linkedin.com/in/sara-cro%C3%BCs-5454b53b/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Muriel Benitah	Responsable de l'Animation de la Filière IT du Groupe, Société Générale	https://www.linkedin.com/in/muriel-benitah/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Klaxoon		https://www.linkedin.com/in/9370644/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Romain TREBUIL	CEO & Co-Founder YOSS	https://www.linkedin.com/in/romain-trebuil-1738a014/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Léo Rousselière	Business Developer - Inside Sales @ Toucan Toco	https://www.linkedin.com/in/l%C3%A9orousseli%C3%A8re/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	jean-françois dufour	Business Development Advisor - Specialty Strategy Finance and Raising Money for Entrepreneurs	https://www.linkedin.com/in/jean-francois-dufour/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	louis westerloppe	Directeur de studio @LiveMentor	https://www.linkedin.com/in/louiswes/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Jean Michel Mong	Chargé de mission SNCF Entrepreneur	https://www.linkedin.com/in/jean-michel-mong-6161b2b0/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Nata Fatou FAYE	IS Manager West Africa chez Philip Morris International	https://www.linkedin.com/in/nata-fatou-faye-22b91542/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Rémy Parent	Student in Research Master 'Innovation, Conception, Engineering ' at Arts & Métiers Paristech	https://www.linkedin.com/in/r%C3%A9my-parent-67a6558a/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Lucy Crous	Assistante RH / Formation	https://www.linkedin.com/in/lucy-crous-624758154/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Lucy Crous	Assistante RH / Formation	https://www.linkedin.com/in/lucy-crous-624758154/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Lucy Crous	Assistante RH / Formation	https://www.linkedin.com/in/lucy-crous-624758154/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Emmanuelle Gras	Fondatrice chez DIPONGO	https://www.linkedin.com/in/emmanuelle-gras-7362528a/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	jean-marie viviane	Responsable principal chaîne logistique chez RL DECOR	https://www.linkedin.com/in/jean-marie-viviane-254235126/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Alexandre Dana	CEO @LiveMentor ((Now Hiring !)	https://www.linkedin.com/in/alexandredana/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Ivan OSTROWICZ	Founder & CEO at Domoscio | TEDx speaker | Seedstars mentor | SLP fellow	https://www.linkedin.com/in/ivanostrowicz/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Edouard Gasser	CEO at Tilak Healthcare	https://www.linkedin.com/in/edouardgasser/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Aliyat BÉNARD	Professeur de yoga chez DECATHLON FRANCE	https://www.linkedin.com/in/aliyat-b%C3%A9nard-a698118a/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Sandrine GOYAULT	Chargée de developpement - Conseiller Création chez Groupe Soregor	https://www.linkedin.com/in/osconseils/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Benjamin Braquet	Co-founder Eté Indien Editions - Co-founder Mozzr - Gérant de l'agence Braquet Consulting	https://www.linkedin.com/in/benjaminbraquet/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Benjamin Braquet	Co-founder Eté Indien Editions - Co-founder Mozzr - Gérant de l'agence Braquet Consulting	https://www.linkedin.com/in/benjaminbraquet/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Michel Brun	Business Developer / Biz Dev @ STATION F - Lena Cloud	https://www.linkedin.com/in/brunmichel/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Estelle Lataste	Responsable marketing et communication chez Mont Blanc Swiss Clinic	https://www.linkedin.com/in/estelle-lataste-9616a212a/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Lucy Crous	Assistante RH / Formation	https://www.linkedin.com/in/lucy-crous-624758154/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Genesis Ehimegbe	Entrepreneur	https://www.linkedin.com/in/genesisehimegbe/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Yaya KONE	Co-founder, Operations manager C O L I B A & Impact driven Entrepreneur	https://www.linkedin.com/in/yayakone/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	José MACHADO	Directeur commercial chez NormHOST	https://www.linkedin.com/in/jos%C3%A9-machado-974155b9/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Adriana Massino	CEO @ Vetolib	https://www.linkedin.com/in/adrianamassino/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Lionel Lesguer Van Beekum	Sentinelle sur l’écosystème des startups et l’innovation	https://www.linkedin.com/in/lionel-lesguer-van-beekum-b7b181121/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Adriana Massino	CEO @ Vetolib	https://www.linkedin.com/in/adrianamassino/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Séverine Godet	Responsable éditorial chez Atout DSI / Agence Abileo	https://www.linkedin.com/in/severinegodet/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Nora Tirane	Présidente Association. #Immobilier Orsay. #Paris-Saclay #RealEstateAgent - Auteur - Conférencière- Mkt Free Lance	https://www.linkedin.com/in/nora-tirane-a8b7039b/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Nora Tirane	Présidente Association. #Immobilier Orsay. #Paris-Saclay #RealEstateAgent - Auteur - Conférencière- Mkt Free Lance	https://www.linkedin.com/in/nora-tirane-a8b7039b/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Adele Da silva	Directrice d'agence, VOUSFINANCER.COM Orsay	https://www.linkedin.com/in/adele-da-silva-739aab40/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com/in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Adel Rassaa	Prof d’eco-droit - Référent de mission de lutte contre le décrochage scolaire	https://www.linkedin.com/in/adel-rassaa-512744115/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Oktay BALIKCI	Directeur Général	https://www.linkedin.com/in/oktay-balikci-b55897133/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Victorin Gokpon	Président chez Premier Conseil	https://www.linkedin.com/in/victorin-gokpon-9b5973104/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Mohamed Zenk	DetherBlockchain EnthousiastEn route to Detherization Under promise, over deliver!	https://www.linkedin.com/in/mohamed-zenk-006149152/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Abdelhak RECHID	Founder | CEO of UniNaming / Devproteam	https://www.linkedin.com/in/abdelhakrechid/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Abdelhamid Benyahia	Cofounder @Dether.io	https://www.linkedin.com/in/abdelhamidbenyahia/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Abdelhak RECHID	Founder | CEO of UniNaming / Devproteam	https://www.linkedin.com/in/abdelhakrechid/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	boris yepmo	Dirigeant d’entreprise chez DATA TRYB	https://www.linkedin.com//in/boris-yepmo-68589927/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Jack-Hermann N.	Group Business Change Partner Leader@ (Euler Hermes Allianz) / Entrepreneur @ (MFT)	https://www.linkedin.com//in/jack-hermann-n-9870348/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	Kossi ADZO	Founder & CEO startup.info	https://www.linkedin.com//in/kossi/
+https://www.linkedin.com/feed/update/urn:li:activity:6352193986362433536	boris yepmo	Dirigeant d’entreprise chez DATA TRYB	https://www.linkedin.com//in/boris-yepmo-68589927/

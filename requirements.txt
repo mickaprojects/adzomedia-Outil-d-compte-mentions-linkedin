@@ -1,0 +1,7 @@
+importlib2==3.5.0.2
+configparser==3.5.0
+wxPython==4.0.0
+pathlib==1.0.1
+selenium==3.8.1
+openpyxl==2.5.0
+bs4
